@@ -1,0 +1,33 @@
+
+nav{
+    border-top: 1px solid black;
+    border-bottom:1px solid black ;
+    display: flex;
+   
+}
+
+ul{
+    display:flex;
+}
+li{
+    list-style-type: none;
+    padding:10px;
+    margin:auto;
+    font-size: 20px;
+    font-style:oblique;
+}
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size: 40px;
+    color:darkred;
+    font-style: italic;
+}
+section{
+    display:flex;
+}
+i{
+    color:rgb(114, 40, 52)
+}
